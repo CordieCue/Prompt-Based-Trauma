@@ -93,26 +93,9 @@ To reproduce results:
 - Use the generated checkpoints for inference and evaluation
 - Ensure consistency between training and evaluation label formats to maintain reported accuracy
 
-## Contributing 
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature or fix branch
-3. Add tests or documentation where applicable
-4. Open a pull request with a clear description of changes
 
 ## License & Contact 
 
 Add a `LICENSE` file to specify usage and distribution terms. For questions, issues, or discussions, please open an issue in the repository.
 
 ---
-
-**Next options:**
-
-- Rewrite this in a more academic / paper-style README
-- Add a dedicated section on evaluation metrics
-- Provide example input–output pairs
-- Draft a system architecture diagram description for the repo
-
-Tell me which you'd like next and I can implement it.
